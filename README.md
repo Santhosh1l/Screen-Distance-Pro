@@ -10,7 +10,6 @@ An Android Studio app that enhances user safety and promotes healthy screen usag
 
 - User-friendly interface.
 - Implements modern Android components like Material Design and ConstraintLayout.
-- Includes a sample face detection feature (if applicable).
 - Customizable and scalable architecture.
 
 ## Getting Started
